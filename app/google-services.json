@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304325891101",
+    "project_id": "registration-by-phone",
+    "storage_bucket": "registration-by-phone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304325891101:android:31505ea394295c5911e2f4",
+        "android_client_info": {
+          "package_name": "com.example.registrationbyphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304325891101-7mulvg48rsba7lhal76o49uirq955cpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeT9pytRQw_ICKIwL3h-DxMu61JU0jpp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304325891101-7mulvg48rsba7lhal76o49uirq955cpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
