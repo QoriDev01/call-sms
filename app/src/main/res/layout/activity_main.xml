@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
     android:orientation="vertical"
+    android:gravity="center"
     tools:context=".MainActivity">
-
     <EditText
-        android:id="@+id/MainEditText"
+        android:id="@+id/number_edit"
         android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:hint="number"/>
+    <Button
+        android:id="@+id/bten_number"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="Raqam Kiriting" />
-
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/MainButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Contune" />
+        android:background="@color/black"/>
 
 </LinearLayout>
